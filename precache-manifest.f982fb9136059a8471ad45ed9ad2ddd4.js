@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "082713fe5bd7bf39ecb95011d325a51a",
+    "revision": "d84d734bac27e5a7004fd48a38e47630",
     "url": "/wanderlust/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wanderlust/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "806f92dc6429a78a29bf",
+    "revision": "875867d3dfcb4e10b690",
     "url": "/wanderlust/static/css/main.2ae54dca.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wanderlust/static/js/2.09cbdc27.chunk.js"
   },
   {
-    "revision": "806f92dc6429a78a29bf",
-    "url": "/wanderlust/static/js/main.76fe4699.chunk.js"
+    "revision": "875867d3dfcb4e10b690",
+    "url": "/wanderlust/static/js/main.b988304a.chunk.js"
   },
   {
     "revision": "f0fa4cb1a7ed2215b15f",
