@@ -2,7 +2,7 @@
   "name": "wanderlust",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://girijapathi.github.io/profile/",
+  "homepage": "https://girijapathi.github.io/wanderlust",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",

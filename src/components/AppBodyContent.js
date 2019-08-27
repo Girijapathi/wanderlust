@@ -10,16 +10,16 @@ class AppBodyContent extends Component{
         return(
             <div className="App-AppBodyContent">
                 <div className="polaroid">
-                    <img className="" src={img1} />
+                    <img className="" src={img1} alt="" />
                 </div>
                 <div className="polaroid">
-                    <img className="" src={img2} />
+                    <img className="" src={img2} alt=""/>
                 </div>
                 <div className="polaroid">
-                    <img className="" src={img3} />
+                    <img className="" src={img3} alt=""/>
                 </div>
                 <div className="polaroid">
-                    <img className="" src={img4} />
+                    <img className="" src={img4} alt=""/>
                 </div>
             </div>
         );

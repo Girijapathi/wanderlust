@@ -12,10 +12,10 @@ class ImageSlider extends Component{
         return(
             <div className="App-ImageSlider">
                 <Carousel showThumbs={false}>
-                    <img className="" src={img1} />
-                    <img className="" src={img2} />
-                    <img className="" src={img3}/>
-                    <img className="" src={img4}/>
+                    <img className="" src={img1} alt=""/>
+                    <img className="" src={img2} alt=""/>
+                    <img className="" src={img3} alt=""/>
+                    <img className="" src={img4} alt=""/>
                 </Carousel>
 
             </div>
